@@ -56,7 +56,7 @@ This data was used as the foundation for the dashboard visualizations.
 
 ## 🖼️ Dashboard Preview
 
-
+https://github.com/Aarsh0315/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard.png
 
 ---
 
