@@ -56,7 +56,7 @@ This data was used as the foundation for the dashboard visualizations.
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard Screenshot]([https://github.com/your-username/your-repo-name/blob/main/images/sales_dashboard.png?raw=true](https://github.com/Aarsh0315/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard.png))
+![Sales Dashboard](https://github.com/Aarsh0315/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard.png?raw=true)
 
 
 
